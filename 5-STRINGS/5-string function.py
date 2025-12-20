@@ -21,3 +21,10 @@ print(str.find("o"))
 #<---COUNT---> counts for how much the word occured in the string
 print(str.count("o"))
  
+
+#PROBLEM SOLVING
+name=input("please enter your name")
+print(len(name)) #or
+print("length of your name is:",len(name))
+
+#stopped at 30min
