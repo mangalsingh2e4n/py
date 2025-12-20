@@ -4,7 +4,7 @@ nature="KATTAPA/AMIT SHAH"
 print(name+nature)
 
 # we can store added string in other variable
-name1="JAB TAK RAHEGA SAMOSE ME AALU,"
-name2="TAB TAK RAHEGA BIHAR ME LALU"
-BIHAR= name1+name2
-print(BIHAR)
+name1="JAB TAK RAHEGA SABJI ME AALU,"
+name2="TAB TAK RAHEGA TIHAR ME LALU"
+TIHAR= name1+name2
+print(TIHAR)
