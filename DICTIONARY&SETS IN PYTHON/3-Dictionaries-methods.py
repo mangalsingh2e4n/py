@@ -23,3 +23,5 @@ print(students_progess.get("subjects-name"))
 #5- mydict.update(newdict)---> inserts the new specified items into the dictionaries.
 students_progess.update({"GRADE": "A"})
 print(students_progess)
+students_progess.update({"father name":"Murari Singh"})
+print(students_progess)

@@ -14,3 +14,4 @@ print(marks.count(73))
 
 
 
+
